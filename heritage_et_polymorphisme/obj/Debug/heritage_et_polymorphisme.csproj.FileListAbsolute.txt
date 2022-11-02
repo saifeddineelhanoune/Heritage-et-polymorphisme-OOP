@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\heritage_et_polymorphisme\heritage_et_polymorphisme\bin\Debug\heritage_et_polymorphisme.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\heritage_et_polymorphisme\heritage_et_polymorphisme\bin\Debug\heritage_et_polymorphisme.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\heritage_et_polymorphisme\heritage_et_polymorphisme\bin\Debug\heritage_et_polymorphisme.pdb
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\heritage_et_polymorphisme\heritage_et_polymorphisme\obj\Debug\heritage_et_polymorphisme.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\heritage_et_polymorphisme\heritage_et_polymorphisme\obj\Debug\heritage_et_polymorphisme.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\projects C#\heritage_et_polymorphisme\heritage_et_polymorphisme\obj\Debug\heritage_et_polymorphisme.pdb
