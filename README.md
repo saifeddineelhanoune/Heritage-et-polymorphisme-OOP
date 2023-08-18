@@ -8,10 +8,6 @@ This repository contains examples of Object-Oriented Programming (OOP) concepts 
 - [Examples](#examples)
   - [Example 1: Multiple Level Inheritance](#example-1-multiple-level-inheritance)
   - [Example 2: MLS with Animal Hierarchy](#example-2-mls-with-animal-hierarchy)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
